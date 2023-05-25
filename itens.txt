@@ -1,0 +1,30 @@
+suprimentos:
+    pontas
+    flechas
+    estrepes
+
+armas corpo a corpo:
+    espadas
+    malho
+    cimitarra
+    adaga
+    porrete
+    
+armas de media distancia:
+    alabarda
+    lança
+    machado de batalha
+    martelo de guerra
+    foice
+
+equipamento de longa distancia:
+    arco
+    besta
+
+proteção:
+    capacete
+    dorso
+    calça 
+    bota
+    escudo
+

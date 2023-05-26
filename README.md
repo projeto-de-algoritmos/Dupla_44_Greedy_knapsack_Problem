@@ -1,7 +1,7 @@
 Tema:
  - Greed
 
-# NomedoProjeto
+# Mercador Medieval
 
 **Número da Lista**: 44<br>
 **Conteúdo da Disciplina**: Projeto de algoritmos<br>
@@ -19,7 +19,7 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 

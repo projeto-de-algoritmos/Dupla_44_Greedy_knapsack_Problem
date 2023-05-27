@@ -45,16 +45,20 @@ def openNewWindow():
  
  
 label = Label(master,
-              text ="This is the main window")
+              text ="Welcome stranger...")
  
 label.pack(pady = 10)
  
 # a button widget which will open a
 # new window on button click
 btn = Button(master,
-             text ="Click to open a new window",
+             text ="Iniciar",
              command = openNewWindow)
 btn.pack(pady = 10)
- 
+
+btn2 = Button(master,
+             text ="Sair",
+             command = openNewWindow)
+btn2.pack(pady = 20) 
 # mainloop, runs infinitely
 tk.mainloop()

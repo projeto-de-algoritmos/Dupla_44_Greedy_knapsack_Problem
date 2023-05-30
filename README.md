@@ -49,3 +49,6 @@ Apos a instalação das bibliotecas executar o seguinte comando na raiz do proje
 ```bash 
 python3 main.py
 ```
+
+## Vídeo de apresentação do projeto
+[Video no youtube](https://youtu.be/oIaHr3kIQkk)

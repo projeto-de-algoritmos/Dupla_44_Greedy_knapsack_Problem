@@ -52,3 +52,5 @@ python3 main.py
 
 ## Vídeo de apresentação do projeto
 [Video no youtube](https://youtu.be/oIaHr3kIQkk)
+
+Tambem está disponivel na raiz deste projeto na pasta com nome "Video"
